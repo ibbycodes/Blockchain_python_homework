@@ -1,0 +1,6 @@
+To run this you needed the 
+
+1. hd-derive-wallet - https://github.com/dan-da/hd-wallet-derive
+2. you need PHP to be installed 
+3. you need bit this can be installed within the enviroment using the pip install 
+4. you need web this can be installed within the enviroment using the pip install 
